@@ -114,6 +114,7 @@ flutter build web --release
 
 ## 📁 Project Structure
 
+```bash
 ToDo-App/
 ├── lib/
 │   ├── main.dart                 # App entry point
@@ -133,7 +134,7 @@ ToDo-App/
 │   └── fonts/                    # Custom fonts
 ├── pubspec.yaml                  # Dependencies and project configuration
 └── README.md                      # This file
-
+```
 ---
 
 ## 🎯 Usage Guide
@@ -176,6 +177,7 @@ APP_NAME=Elite Todo
 ENABLE_ANALYTICS=true
 
 ### Theme Customization
+
 Modify `lib/styles/theme.dart` to customize colors, fonts, and spacing:
 const primaryColor = Color(0xFF6366F1); // Indigo
 const accentColor = Color(0xFF10B981);  // Emerald
