@@ -1,7 +1,5 @@
 # 🚀 Elite Todo - Master Your Goals
 
-![Elite Todo Banner](https://github.com/LegendDeev/ToDo-App/raw/main/assets/banner.png)
-
 A beautiful, feature-rich **Flutter** todo and goal management application designed to help you stay organized, focused, and motivated. Track your daily tasks, set ambitious goals, and monitor your progress with intuitive statistics and reminders.
 
 ---
@@ -37,27 +35,27 @@ A beautiful, feature-rich **Flutter** todo and goal management application desig
 
 ### 1. Goal Creation Screen
 Create new goals with detailed information:
-![Goal Creation](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/b716caf8-cc9e-47cb-95d0-107a1182751a)
+![Goal Creation](https://github.com/LegendDeev/ToDo-App/blob/main/assets/screenshots/Screenshot_2025-12-28-21-09-20-825_com.example.ego.jpg)
 
 ### 2. Loading Screen
 Beautiful splash screen with app branding:
-![Loading Screen](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/5783e14c-ed22-4d02-b604-7ffd3bf3771a)
+![Loading Screen](https://github.com/LegendDeev/ToDo-App/blob/main/assets/screenshots/Screenshot_2025-12-28-21-06-03-035_com.example.ego.jpg)
 
 ### 3. Main Dashboard
 View all goals and tasks with statistics:
-![Main Dashboard](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/96e8d00f-f714-4819-9cd2-b2814803ee4e)
+![Main Dashboard](https://github.com/LegendDeev/ToDo-App/blob/main/assets/screenshots/Screenshot_2025-12-28-21-09-05-899_com.example.ego.jpg)
 
 ### 4. Filtered Tasks (Pending View)
 Track pending tasks and manage deadlines:
-![Pending Tasks](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/69df8a04-ef97-4ed6-8069-41712e8766ac)
+![Pending Tasks](https://github.com/LegendDeev/ToDo-App/blob/main/assets/screenshots/Screenshot_2025-12-28-21-09-09-910_com.example.ego.jpg)
 
 ### 5. Task Completion View
 View completed goals and celebrate achievements:
-![Completed Tasks](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/f80df71a-6579-4021-97c8-4976901e4195)
+![Completed Tasks](https://github.com/LegendDeev/ToDo-App/blob/main/assets/screenshots/Screenshot_2025-12-28-21-09-14-665_com.example.ego.jpg)
 
 ### 6. Task Actions
 Manage tasks with delete and completion options:
-![Task Actions](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/25112836-0ecb-48e6-9c40-125814be2c42)
+![Task Actions](https://github.com/LegendDeev/ToDo-App/blob/main/assets/screenshots/Screenshot_2025-12-28-21-09-12-783_com.example.ego.jpg)
 
 ---
 
